@@ -27,7 +27,7 @@ Mobile view:
 
 ### Links
 - Solution URL: (https://www.frontendmentor.io/profile/halovii/solutions)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://halovii.github.io/results-sum/)
 
 
 ### Built with
